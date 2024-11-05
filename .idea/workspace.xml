@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61977657-c1f4-41c8-a242-1bf07d70ac54" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2914. Minimum Number of Changes to Make Binary String Beautiful [E]/2914. Minimum Number of Changes to Make Binary String Beautiful.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2914. Minimum Number of Changes to Make Binary String Beautiful [E]/2914. Minimum Number of Changes to Make Binary String Beautiful.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +45,7 @@
   "keyToString": {
     "Python.1957. Delete Characters to Make Fancy String [E].executor": "Run",
     "Python.2490. Circular Sentence.executor": "Run",
+    "Python.2914. Minimum Number of Changes to Make Binary String Beautiful.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "main"
